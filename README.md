@@ -1,2 +1,15 @@
 # Hangman
-Intro do GitHub submissions
+
+PROJECT 1
+
+NAME:
+
+DATE OF COMPLETION:
+
+PURPOSE OF PROJECT:
+
+OUTSIDE SOURCES / HELP:
+
+MESSAGE FOR TA GRADER:
+
+
